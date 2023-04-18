@@ -1,0 +1,6 @@
+tableau
+https://public.tableau.com/views/Milestone1_16771641641230/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+Data Kaggle
+https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
