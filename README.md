@@ -26,4 +26,4 @@ The analysis and visualization of the Sample Superstore sales data revealed seve
 These insights can be used to identify opportunities for improving profitability and customer satisfaction within the Sample Superstore business.
 
 ## Acknowledgements
-The Sample Superstore sales data used in this project was obtained from [Tableau](https://www.tableau.com/). Special thanks to the [Udacity Data Science Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025) for providing the foundational knowledge and skills required to complete this project.
+The Sample Superstore sales data used in this project was obtained from [Tableau](https://www.tableau.com/). Special thanks to the [Kaggle](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) for providing the data samples to complete this project.
